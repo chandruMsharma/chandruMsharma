@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chandruMsharma
+- 👋 Hi, I’m Chandru Sharma
 - 👀 I’m interested in ML/DL Applications, UI Designing & Networks
 - 🌱 I’m currently learning Networking!
 - 📫 How to reach me - If need be, reach me at Discord - proud_rookie#0001

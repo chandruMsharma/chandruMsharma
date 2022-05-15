@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Chandru Sharma
 - 👀 I’m interested in ML/DL Applications & UI Designing
-- 📫 How to reach me - If need be, reach me at Discord - proud_rookie#0001
 
 Kudos & Keep Learning!
 
